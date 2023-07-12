@@ -1,1 +1,6 @@
-luncerwin.dev
+dig +noall +answer luncerwin.dev
+;luncerwin.dev.
+luncerwin.dev.   3600  IN  A 185.199.108.153
+luncerwin.dev.   3600  IN  A 185.199.109.153
+luncerwin.dev.   3600  IN  A 185.199.110.153
+luncerwin.dev.   3600  IN  A 185.199.111.153
